@@ -1,4 +1,3 @@
-0.png 910 292 938 320 prohibitory
 1.png 934 353 1002 421 prohibitory
 1.png 927 402 996 471 warning
 2.png 359 337 399 377 prohibitory
@@ -81,7 +80,6 @@
 52.png 1037 29 1149 141 warning
 53.png 847 183 958 294 indication
 53.png 748 400 787 439 prohibitory
-54.jpg 314 344 409 439 prohibitory
 55.png 536 457 583 504 indication
 55.png 1017 324 1074 381 indication
 56.png 920 306 1002 388 prohibitory
@@ -89,3 +87,4 @@
 58.png 838 185 906 253 indication
 58.png 345 134 429 218 indication
 59.png 1134 307 1208 381 prohibitory
+61.png 910 292 938 320 prohibitory
